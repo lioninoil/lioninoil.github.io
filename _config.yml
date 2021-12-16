@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "lioninoil"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "lioninoil"
@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : youngjun_ch
 facebook:
   username               :
   app_id                 :
